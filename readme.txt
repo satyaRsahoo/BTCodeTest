@@ -1,6 +1,8 @@
-Execute the program by,
+The program has been written on C# language.
+
+To execute the program,
 - Using exe file.
-- Using Developer Command Prompt
+- Using Developer Command Prompt for VS
 
 Using exe file:
 ---------------
